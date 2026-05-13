@@ -1,0 +1,7 @@
+osmnx
+geopandas
+pandas
+matplotlib
+folium
+networkx
+jupyter
