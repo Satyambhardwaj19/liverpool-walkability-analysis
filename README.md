@@ -51,7 +51,7 @@ The main spatial data includes:
 
 ## Current Status
 
-This repository is being developed as part of my data science and geospatial visualisation portfolio. The initial repository structure is being prepared first, followed by a cleaned portfolio version of the notebook and output images.
+This repository currently includes the main portfolio notebook for the Liverpool walkability analysis. Output images and README previews will be added next to make the project easier to review without opening the notebook.
 
 ## Future Improvements
 
