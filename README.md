@@ -81,7 +81,9 @@ These findings show how OpenStreetMap data and Python-based geospatial analysis 
 
 ## Current Status
 
-This repository currently includes the main portfolio notebook for the Liverpool walkability analysis. Output images and README previews will be added next to make the project easier to review without opening the notebook.
+This repository currently includes the main portfolio notebook, static map outputs, and an interactive map preview for the Liverpool walkability analysis. The project is structured as part of my data science and geospatial visualisation portfolio.
+
+Further improvements will focus on adding more walkability indicators, improving the map design, and making the analysis more detailed.
 
 ## Future Improvements
 
