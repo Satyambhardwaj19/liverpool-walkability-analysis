@@ -39,6 +39,26 @@ The main spatial data includes:
 - Created interactive maps to support exploration of the results
 - Interpreted how street connectivity relates to walkability
 
+## Project Outputs
+
+### Static Map: Liverpool Walking Network
+
+This map shows the structure of Liverpool's walking network using OpenStreetMap data. It helps show the density and pattern of walkable streets across the city.
+
+![Liverpool walking network map](outputs/walking_network_map.png)
+
+### Static Map: Street Connectivity
+
+This map visualises street connectivity using node degree. Areas with higher node degree have more connected walking routes, while areas with lower node degree have fewer route options.
+
+![Liverpool street connectivity map](outputs/connectivity_map.png)
+
+### Interactive Walkability Map Preview
+
+The interactive map allows users to explore Liverpool's walking network and connectivity patterns in more detail.
+
+![Interactive walkability map preview](outputs/interactive_walkability_preview.png)
+
 ## Key Skills Demonstrated
 
 - Geospatial data analysis
