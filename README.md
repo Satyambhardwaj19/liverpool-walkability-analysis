@@ -51,7 +51,7 @@ This map shows the structure of Liverpool's walking network using OpenStreetMap 
 
 This map visualises street connectivity using node degree. Areas with higher node degree have more connected walking routes, while areas with lower node degree have fewer route options.
 
-![Liverpool street connectivity map](outputs/connectivity_map.png)
+![Liverpool street connectivity map](outputs/static_magnitude_map.png)
 
 ### Interactive Walkability Map Preview
 
