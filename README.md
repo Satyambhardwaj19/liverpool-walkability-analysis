@@ -59,6 +59,16 @@ The interactive map allows users to explore Liverpool's walking network and conn
 
 ![Interactive walkability map preview](outputs/interactive_walkability_preview.png)
 
+## Key Findings
+
+- Liverpool's walking network shows clear variation in street density and connectivity across different areas.
+- Areas with higher node degree suggest stronger street connectivity and more route choices for pedestrians.
+- Areas with lower node degree may offer fewer walking options and less direct movement through the network.
+- Static maps are useful for showing the overall structure of the walking network.
+- The interactive map makes it easier to explore local street patterns and compare different parts of the city.
+
+These findings show how OpenStreetMap data and Python-based geospatial analysis can be used to explore walkability in an urban setting.
+
 ## Key Skills Demonstrated
 
 - Geospatial data analysis
